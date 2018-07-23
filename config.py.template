@@ -1,0 +1,3 @@
+SSID = '<ssid>'
+PASSWORD = '<password>'
+URL = 'https://<project-name>.firebaseio.com/data.json'
