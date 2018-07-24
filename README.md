@@ -2,6 +2,8 @@
 
 MicroPython demo on NodeMCU with ESP8266 (WiFi). Fake temperature data will be posted to API every 10 seconds.
 
+[用 Python 玩硬體：MicroPython 簡介與實作](https://pyliaorachel.github.io/blog/tech/python/2018/07/24/micropython-on-esp8266.html)
+
 ## [Setup NodeMCU & Tools](https://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html)
 
 1. Install tools
